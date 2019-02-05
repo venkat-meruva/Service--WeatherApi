@@ -1,0 +1,17 @@
+com\spring\forecast\api\dto\HeaderResponse.class
+com\spring\forecast\api\dto\WeatherInfo.class
+com\spring\forecast\api\dto\Image.class
+com\spring\forecast\api\WeatherApiApplication.class
+com\spring\forecast\api\dto\Estimated.class
+com\spring\forecast\api\dto\Features.class
+com\spring\forecast\api\dto\DisplayLocation.class
+com\spring\forecast\api\util\RestUtil.class
+com\spring\forecast\api\controller\WeatherController.class
+com\spring\forecast\api\dto\CurrentObservation.class
+com\spring\forecast\api\dto\WeatherResponse.class
+com\spring\forecast\api\dto\Response.class
+com\spring\forecast\api\exception\advice\ExceptionMapper.class
+com\spring\forecast\api\dto\ObservationLocation.class
+com\spring\forecast\api\mail\MailUtil.class
+com\spring\forecast\api\exception\advice\WeatherException.class
+com\spring\forecast\api\service\WeatherService.class
